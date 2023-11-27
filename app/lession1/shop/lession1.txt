@@ -1,0 +1,55 @@
+// Varför definierar vi variabler inom
+useState och const?
+// Förklara skillnaden mellan en
+komponent och page?
+// Vad används ‘interface’ till?
+
+/ –Uppgift #1– //
+/* INSTRUCTIONS
+Skapa ett nytt projekt!
+Döp projektet till: Lektion_4_uppgifter
+Skapa en ny mapp i samma rot mapp
+som projektet befinner sig på.
+(titta på bilden)
+Skapa en ‘user’ komponent!
+*/
+// HINT & Examples
+hint(” Om du kör på ‘app-router’ så kan du bara
+döpa mappen till ‘components’ och sedan en ‘user’
+komponent innanför ”)
+
+/ –Uppgift #2– //
+/* INSTRUCTIONS
+Skapa en user prop med hjälp av interface:
++ name: string
++ age: number
++ isLoggedIn: boolean
+Kalla nu på denna komponent innanför index
+Pages!
+T.ex: <User />
+Glöm inte att ta bort ‘pages’ arvet innanför
+komponenten.
+*/
+// HINT & Examples
+hint(” kom ihåg att varje komponent har argument
+vilket kallas för ‘properties’ ”)
+
+/ –Uppgift #3– //
+/* INSTRUCTIONS
+Försök att navigera via en länk till ‘about’
+från ‘index’ via <Link> komponenten!
+Försök nu att navigera tillbaka!
+*/
+hint(” Glöm inte att importera ‘link’ ”)
+
+/ –Uppgift #4– //
+Tough Nut
+/* INSTRUCTIONS
+Skapa en komponent som skapar en
+annan komponent under knapptryck!
+*/
+hint(” Ett dynamiskt sätt att arbeta på gällande
+komponenter, och försöker även återanvända kod.
+Om denna uppgift är för svår, börja med att skapa
+en komponent under knapptryck endast.
+Lycka till!”)

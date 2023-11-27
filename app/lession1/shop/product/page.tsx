@@ -10,7 +10,7 @@ export default function Page() {
   return (
     <Suspense fallback={<Loading />}>
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
-        <p>This is the PRODUCT PAGE!</p>
+        <p>This is our PRODUCT PAGE!</p>
         {debugApi().then(() => (
           <p>Test loading fallback! API took 2 sec successfully</p>
         ))}

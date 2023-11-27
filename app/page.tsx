@@ -15,9 +15,9 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div>
         <p className="text-black bold font-bold">Lessions, Week 2. Content:</p>
-        <p className="text-black">Lession 1: Routing, Urls, api & typescript</p>
-        <p className="text-black">Lession 2: Protokoll & Typescript</p>
-        <p className="text-black">Lession 3: useState, TailWind & fetch() </p>
+        <p className="text-black">Lession 1: Pages, Components & Props</p>
+        <p className="text-black">Lession 2: </p>
+        <p className="text-black">Lession 3: </p>
 
         <Link href="/lession1/shop/product">Navigate to PRODUCT PAGE!</Link>
         <Link href="/lession1/shop">Navigate to SHOP</Link>

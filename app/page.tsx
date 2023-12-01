@@ -16,7 +16,9 @@ export default function Home() {
       <div>
         <p className="text-black bold font-bold">Lessions, Week 2. Content:</p>
         <p className="text-black">Lession 1: Pages, Components & Props</p>
-        <p className="text-black">Lession 2: </p>
+        <p className="text-black">
+          Lession 2: Websockets, backend services & Ajax
+        </p>
         <p className="text-black">Lession 3: </p>
 
         <Link href="/lession1/shop/product">Navigate to PRODUCT PAGE!</Link>

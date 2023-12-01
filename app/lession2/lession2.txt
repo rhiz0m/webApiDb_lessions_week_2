@@ -1,0 +1,47 @@
+Krav
+● Inlämningen behöver inte vara mer än en sida lång
+● Håll texten kortfattad
+● Håll en röd tråd genom texten som är relevant till
+modulerna
+● Texten ska vara informativ men får också
+inkludera egna perspektiv, reflektioner och eller
+paralleller
+● Deadline för båda inlämningar är: 7 December
+
+Inlämning #1
+Rita upp en bild som visar följande hur respektive
+moduler fungerar:
+● Handshakes (TCP)
+● Client request HTTP
+● Server Response
+
+Inlämning #2
+Förklara nu inom egen text (Undvik helst Chat GPT)
+hur dessa moduler nedanför hör ihop med varandra inom
+ett flöde.
+Om det finns flertal alternativ t.ex JSON & XML,
+förklara när man använder det ena före det andra:
+● API
+● JSON & XML
+● BaaS/MBaaS
+● Firebase
+● Statuskoder
+● Restful metoder
+● APIer & graphQL
+
+
+// //
+
+* INSTRUCTIONS
+Skapa ett nytt projekt!
+Döp projektet till: Lektion_5_uppgifter
+Skapa en ny mapp i samma rot mapp
+som projektet befinner sig på.
+(titta på bilden)
+Skapa en ‘user’ komponent!
+*/
+// HINT & Examples
+hint(” Om du har problemet med att du alltid
+skapar en mapp INNANFÖR, “scrolla” längst ner på
+sidan och tryck på ett tomrum, då kommer det
+avmarkeras! ”)
